@@ -68,10 +68,16 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [ ] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
   - [ ] Understand ConfigMaps
+    - [ ] https://kubernetes.io/docs/concepts/configuration/configmap/
   - [ ] Understand SecurityContexts
+    - [ ] https://kubernetes.io/docs/concepts/policy/pod-security-policy/
   - [ ] Define App Resource Requirements
+    - [ ] https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
   - [ ] Create and Consume Secrets
+    - [ ] https://kubernetes.io/docs/concepts/configuration/secret/
   - [ ] Understand Service Accounts
+    - [ ]  https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
+    - [ ]  https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/
 - [ ] __Multi-Container Pods - 10%__
   - [ ] Design Patterns: Ambassador, Adapter, Sidecar
     - [ ] - Sidecar Pattern
