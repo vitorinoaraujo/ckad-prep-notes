@@ -65,7 +65,11 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
 
 - [ ] __Core Concepts - 13%__
   - [ ] API Primitives
+    - [ ] https://cloudnative101.dev/lectures/kube-core-concepts/#kubernetes-api-primitives
+    - [ ] https://kubernetes.io/docs/concepts/overview/working-with-objects/
   - [ ] Create and Configure Basic Pods
+    - [ ] https://cloudnative101.dev/lectures/kube-core-concepts/#creating-pods
+    - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/
 - [ ] __Configuration - 18%__
   - [ ] Understand ConfigMaps
     - [ ] https://kubernetes.io/docs/concepts/configuration/configmap/
