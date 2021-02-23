@@ -63,34 +63,34 @@ I think the best approach is to fork this repo as a starting point for your stud
 # Current Progress
 The list below is based on the curriculum v1.0. Once you have mastered a section, check it off and move on to the next. You need to understand them ALL very well. The Core Concepts piece is kind of vague, but the others are defined well enough that it is easy to prepare for with a hands-on work through the tasks offered at kubernetes.io. The rest of this document follows this same outline of curriculum.
 
-- [] __Core Concepts - 13%__
-  - [] API Primitives
-  - [] Create and Configure Basic Pods
+- [ ] __Core Concepts - 13%__
+  - [ ] API Primitives
+  - [ ] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
-  - [] Understand ConfigMaps
-  - [] Understand SecurityContexts
-  - [] Define App Resource Requirements
+  - [ ] Understand ConfigMaps
+  - [ ] Understand SecurityContexts
+  - [ ] Define App Resource Requirements
   - [ ] Create and Consume Secrets
-  - [] Understand Service Accounts
+  - [ ] Understand Service Accounts
 - [ ] __Multi-Container Pods - 10%__
   - [ ] Design Patterns: Ambassador, Adapter, Sidecar
     - [ ] - Sidecar Pattern
     - [ ] - Init Containers
-- [] __Pod Design - 20%__
-  - [] Using Labels, Selectors, and Annotations
-  - [] Understand Deployments and Rolling Updates
-  - [] Understand Deployment Rollbacks
-  - [] Understand Jobs and CronJobs
+- [ ] __Pod Design - 20%__
+  - [ ] Using Labels, Selectors, and Annotations
+  - [ ] Understand Deployments and Rolling Updates
+  - [ ] Understand Deployment Rollbacks
+  - [ ] Understand Jobs and CronJobs
 - [ ] - __State Persistence - 8%__
   - [ ] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
-  - [] Liveness and Readiness Probes
-  - [] Understand Container Logging
+  - [ ] Liveness and Readiness Probes
+  - [ ] Understand Container Logging
   - [ ] Understand Monitoring Application in Kubernetes
-  - [] Understand Debugging in Kubernetes
-- [] __Services and Networking - 13%__
-  - [] Understand Services
-  - [] Basic Network Policies
+  - [ ] Understand Debugging in Kubernetes
+- [ ] __Services and Networking - 13%__
+  - [ ] Understand Services
+  - [ ] Basic Network Policies
 
 # Where to Practice
 This particular items was difficult for me as I didn't have a (current) k8s cluster to use at work. As I was initially studying for the CKA which requires more cluster-level work, I tried many, many different approaches for an inexpensive k8s environment. built many clusters using K8s The Hard way on gcloud (and AWS), built a raspberry pi cluster I could carry to work, and tried using kubeadm / kops on gcloud and aws.
