@@ -71,10 +71,10 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
     - [ ] https://cloudnative101.dev/lectures/kube-core-concepts/#creating-pods
     - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/
       - [X] https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/
-      - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/
-      - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/
-      - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/extended-resource/
-      - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/
+      - [X] https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/
+      - [X] https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/
+      - [X] https://kubernetes.io/docs/tasks/configure-pod-container/extended-resource/
+      - [X] https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/
       - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
       - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/configure-projected-volume-storage/
       - [ ] https://kubernetes.io/docs/tasks/configure-pod-container/security-context/
